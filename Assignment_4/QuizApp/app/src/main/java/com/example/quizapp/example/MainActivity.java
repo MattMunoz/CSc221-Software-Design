@@ -44,6 +44,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Third.setOnClickListener(this);
         Fourth.setOnClickListener(this);
 
+        loadQuestion();
+
     }
 
     public void loadQuestion() {
