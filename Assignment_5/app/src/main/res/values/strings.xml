@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">quizFront</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="fourth">Fourth</string>
+    <string name="correct">Correct!</string>
+    <string name="username" />
+    <string name="password">password</string>
+    <string name="passwrod" />
+</resources>
